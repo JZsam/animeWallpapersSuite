@@ -1,6 +1,6 @@
 # Anime Wallpaper suite
 
-This suite is made to combine some subreddits, istagram artests, and twiter artests that make anime artwork not just wallpapers. This suite is going to have a telegram bot, discord bot, website, and maybe an app.
+This suite is made to combine some anime art subreddits and twiter artests that make anime artwork not just wallpapers. This suite is going to have a telegram bot, discord bot, website, and maybe an app.
 
 ## License
 
